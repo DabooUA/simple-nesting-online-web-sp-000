@@ -122,7 +122,7 @@ def adding_to_dennis
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix"
+          :known_for => "Unix",
           :languages => ["C"]
         }
      }
